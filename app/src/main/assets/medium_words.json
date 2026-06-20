@@ -1,0 +1,322 @@
+[
+  {
+    "word": "abundant",
+    "definition": "existing or available in large quantities",
+    "synonym": "plentiful",
+    "distractor_definitions": [
+      "scarce and extremely hard to find",
+      "harmful to health or survival",
+      "related to historical events"
+    ],
+    "distractor_synonyms": [
+      "scarce",
+      "toxic",
+      "historical"
+    ],
+    "simple_explanation": "If something is 'abundant', there is a large amount of it available."
+  },
+  {
+    "word": "benefit",
+    "definition": "an advantage or profit gained from something",
+    "synonym": "advantage",
+    "distractor_definitions": [
+      "a negative drawback or penalty",
+      "a system of complex laws",
+      "the surface layer of soil"
+    ],
+    "distractor_synonyms": [
+      "detriment",
+      "legislation",
+      "topsoil"
+    ],
+    "simple_explanation": "A 'benefit' is an advantage or helper that makes situation better."
+  },
+  {
+    "word": "analyze",
+    "definition": "examine methodically and in detail for explanation",
+    "synonym": "examine",
+    "distractor_definitions": [
+      "ignore information entirely",
+      "duplicate without understanding",
+      "combine together in one mass"
+    ],
+    "distractor_synonyms": [
+      "disregard",
+      "synthesize",
+      "amalgamate"
+    ],
+    "simple_explanation": "To 'analyze' is to study the small parts of something to see how they work."
+  },
+  {
+    "word": "derive",
+    "definition": "obtain something from a specified source",
+    "synonym": "obtain",
+    "distractor_definitions": [
+      "reject or throw away items",
+      "disrupt ongoing processes",
+      "guess with zero information"
+    ],
+    "distractor_synonyms": [
+      "discard",
+      "hinder",
+      "conjecture"
+    ],
+    "simple_explanation": "To 'derive' is to trace or get something from a starting point."
+  },
+  {
+    "word": "integrate",
+    "definition": "combine one thing with another so they become whole",
+    "synonym": "combine",
+    "distractor_definitions": [
+      "exclude certain people or items",
+      "break down into smaller components",
+      "mislead someone with fake facts"
+    ],
+    "distractor_synonyms": [
+      "exclude",
+      "disintegrate",
+      "deceive"
+    ],
+    "simple_explanation": "To 'integrate' is to merge or blend things smoothly together."
+  },
+  {
+    "word": "persistent",
+    "definition": "continuing firmly in a course of action despite difficulty",
+    "synonym": "determined",
+    "distractor_definitions": [
+      "giving up easily",
+      "occurring only once in a while",
+      "weak and easily broken"
+    ],
+    "distractor_synonyms": [
+      "fickle",
+      "intermittent",
+      "fragile"
+    ],
+    "simple_explanation": "A 'persistent' person doesn't stop trying, even when it's tough."
+  },
+  {
+    "word": "dynamic",
+    "definition": "characterized by constant change, activity, or progress",
+    "synonym": "energetic",
+    "distractor_definitions": [
+      "remaining completely unchanged",
+      "broken or unable to function",
+      "highly secret and private"
+    ],
+    "distractor_synonyms": [
+      "static",
+      "defective",
+      "confidential"
+    ],
+    "simple_explanation": "Something 'dynamic' is active and keeps changing or moving forward."
+  },
+  {
+    "word": "evaluate",
+    "definition": "form an idea of the amount, number, or value of",
+    "synonym": "assess",
+    "distractor_definitions": [
+      "overlook errors on purpose",
+      "increase price values steeply",
+      "publish a news update"
+    ],
+    "distractor_synonyms": [
+      "ignore",
+      "inflate",
+      "broadcast"
+    ],
+    "simple_explanation": "To 'evaluate' is to judge or test how valuable or good something is."
+  },
+  {
+    "word": "cohesive",
+    "definition": "characterized by sticking or fitting well together",
+    "synonym": "unified",
+    "distractor_definitions": [
+      "broken into isolated pieces",
+      "boring and uninspiring",
+      "extremely sticky and messy"
+    ],
+    "distractor_synonyms": [
+      "fragmented",
+      "tedious",
+      "viscous"
+    ],
+    "simple_explanation": "A 'cohesive' group works together nicely as a united team."
+  },
+  {
+    "word": "abstract",
+    "definition": "existing in thought or as an idea but not having physical existence",
+    "synonym": "conceptual",
+    "distractor_definitions": [
+      "visible and physical in nature",
+      "wrong or logically flawed",
+      "extremely simple to explain"
+    ],
+    "distractor_synonyms": [
+      "concrete",
+      "fallacious",
+      "trivial"
+    ],
+    "simple_explanation": "An 'abstract' idea resides in our minds rather than as a touchable object."
+  },
+  {
+    "word": "acquire",
+    "definition": "buy or obtain an asset or object for oneself",
+    "synonym": "obtain",
+    "distractor_definitions": [
+      "give away or hand over items",
+      "damage beyond simple repair",
+      "borrow for short intervals"
+    ],
+    "distractor_synonyms": [
+      "forfeit",
+      "depreciate",
+      "lease"
+    ],
+    "simple_explanation": "To 'acquire' means to get or learn something, like a skill or a book."
+  },
+  {
+    "word": "precise",
+    "definition": "marked by exactness and accuracy of detail",
+    "synonym": "accurate",
+    "distractor_definitions": [
+      "rough estimate or guess",
+      "occurring at a late stage",
+      "extremely large in measurements"
+    ],
+    "distractor_synonyms": [
+      "vague",
+      "belated",
+      "immense"
+    ],
+    "simple_explanation": "Something 'precise' is exactly correct down to the tiniest details."
+  },
+  {
+    "word": "diverse",
+    "definition": "showing a great deal of variety; very different",
+    "synonym": "varied",
+    "distractor_definitions": [
+      "identical and matching in look",
+      "frightening or dangerous",
+      "difficult to understand"
+    ],
+    "distractor_synonyms": [
+      "uniform",
+      "perilous",
+      "complex"
+    ],
+    "simple_explanation": "A 'diverse' group includes many different types of people or things."
+  },
+  {
+    "word": "evidence",
+    "definition": "available facts indicating whether a belief is true",
+    "synonym": "proof",
+    "distractor_definitions": [
+      "rumor or pure speculation",
+      "a formal legal agreement",
+      "a plan for building houses"
+    ],
+    "distractor_synonyms": [
+      "hearsay",
+      "contract",
+      "blueprint"
+    ],
+    "simple_explanation": "'Evidence' consists of facts or items that help prove what happened."
+  },
+  {
+    "word": "generate",
+    "definition": "produce or create an effect or state",
+    "synonym": "produce",
+    "distractor_definitions": [
+      "diminish or run out of supply",
+      "forbid or make unlawful",
+      "translate into clean code"
+    ],
+    "distractor_synonyms": [
+      "deplete",
+      "prohibit",
+      "compile"
+    ],
+    "simple_explanation": "To 'generate' means to create, make, or bring about something."
+  },
+  {
+    "word": "logical",
+    "definition": "characterized by clear, sound reasoning",
+    "synonym": "rational",
+    "distractor_definitions": [
+      "completely absurd or silly",
+      "related to visual paintings",
+      "slow in performance speeds"
+    ],
+    "distractor_synonyms": [
+      "absurd",
+      "artistic",
+      "lethargic"
+    ],
+    "simple_explanation": "A 'logical' argument makes perfect sense and follows strict facts."
+  },
+  {
+    "word": "outcome",
+    "definition": "the way a thing turns out; a consequence",
+    "synonym": "result",
+    "distractor_definitions": [
+      "the starting point of a race",
+      "a secret plan against someone",
+      "an ingredient in baking bread"
+    ],
+    "distractor_synonyms": [
+      "origin",
+      "conspiracy",
+      "constituent"
+    ],
+    "simple_explanation": "An 'outcome' is the final result of an action or event."
+  },
+  {
+    "word": "relevant",
+    "definition": "closely connected or appropriate to the matter",
+    "synonym": "applicable",
+    "distractor_definitions": [
+      "unrelated or off-topic completely",
+      "difficult to hear clearly",
+      "occurring in an ancient period"
+    ],
+    "distractor_synonyms": [
+      "extraneous",
+      "muffled",
+      "archaic"
+    ],
+    "simple_explanation": "'Relevant' info has direct connection to what you are talking about."
+  },
+  {
+    "word": "verify",
+    "definition": "make sure that something is true and accurate",
+    "synonym": "confirm",
+    "distractor_definitions": [
+      "falsify reports with fake data",
+      "refuse to look at documents",
+      "damage something physically"
+    ],
+    "distractor_synonyms": [
+      "fabricate",
+      "ignore",
+      "deface"
+    ],
+    "simple_explanation": "To 'verify' means to double check and prove that something is correct."
+  },
+  {
+    "word": "aesthetic",
+    "definition": "concerned with beauty or the appreciation of beauty",
+    "synonym": "artistic",
+    "distractor_definitions": [
+      "completely useless or broken",
+      "concerning math and numbers",
+      "healthy and free of diseases"
+    ],
+    "distractor_synonyms": [
+      "dysfunctional",
+      "arithmetic",
+      "hygienic"
+    ],
+    "simple_explanation": "Something 'aesthetic' is pleasing to look at or concerns pure beauty."
+  }
+]

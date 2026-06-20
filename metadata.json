@@ -1,0 +1,6 @@
+{
+  "name": "WordTac",
+  "description": "An educational vocabulary-learning game built on top of Tic-Tac-Toe mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

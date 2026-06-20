@@ -1,0 +1,322 @@
+[
+  {
+    "word": "ephemeral",
+    "definition": "lasting for a very short time",
+    "synonym": "transient",
+    "distractor_definitions": [
+      "eternal and never ending",
+      "extremely heavy and solid",
+      "filled with joy and laughter"
+    ],
+    "distractor_synonyms": [
+      "perpetual",
+      "ponderous",
+      "exuberant"
+    ],
+    "simple_explanation": "Something 'ephemeral' is temporary and disappears quickly, like a bubble."
+  },
+  {
+    "word": "cacophony",
+    "definition": "a harsh, discordant mixture of sounds",
+    "synonym": "din",
+    "distractor_definitions": [
+      "a pleasing musical melody",
+      "a style of public speaking",
+      "a detailed outline of work"
+    ],
+    "distractor_synonyms": [
+      "harmony",
+      "elocution",
+      "agenda"
+    ],
+    "simple_explanation": "A 'cacophony' is an unpleasant, loud, and messy mixture of sounds playing at once."
+  },
+  {
+    "word": "loquacious",
+    "definition": "tending to talk a great deal; extremely talkative",
+    "synonym": "garrulous",
+    "distractor_definitions": [
+      "quiet and refusing to speak",
+      "having extreme physical power",
+      "related to historical clocks"
+    ],
+    "distractor_synonyms": [
+      "taciturn",
+      "robust",
+      "horological"
+    ],
+    "simple_explanation": "A 'loquacious' person is very talkative and loves having long conversations."
+  },
+  {
+    "word": "pragmatic",
+    "definition": "dealing with things sensibly and realistically",
+    "synonym": "practical",
+    "distractor_definitions": [
+      "guided by unrealistic dreams",
+      "failing to perform functions",
+      "extremely colorful in design"
+    ],
+    "distractor_synonyms": [
+      "idealistic",
+      "dysfunctional",
+      "vibrant"
+    ],
+    "simple_explanation": "A 'pragmatic' approach is focused on real results and practical solutions."
+  },
+  {
+    "word": "capricious",
+    "definition": "given to sudden and unaccountable changes of mood",
+    "synonym": "fickle",
+    "distractor_definitions": [
+      "reliable and steady in habits",
+      "extremely generous to others",
+      "concerning heavy machinery"
+    ],
+    "distractor_synonyms": [
+      "steadfast",
+      "magnanimous",
+      "industrial"
+    ],
+    "simple_explanation": "Someone 'capricious' changes their mind or mood suddenly without warning."
+  },
+  {
+    "word": "alacrity",
+    "definition": "brisk and cheerful readiness to act",
+    "synonym": "eagerness",
+    "distractor_definitions": [
+      "extreme sadness or grief",
+      "slow and reluctant movement",
+      "loud and aggressive talking"
+    ],
+    "distractor_synonyms": [
+      "grief",
+      "lethargy",
+      "clamor"
+    ],
+    "simple_explanation": "Doing a task with 'alacrity' means doing it quickly and very happily."
+  },
+  {
+    "word": "mitigate",
+    "definition": "make gravity or severity of something less",
+    "synonym": "alleviate",
+    "distractor_definitions": [
+      "make significantly worse or harsher",
+      "celebrate with massive festivals",
+      "explain in simple visual charts"
+    ],
+    "distractor_synonyms": [
+      "aggravate",
+      "commemorate",
+      "illustrate"
+    ],
+    "simple_explanation": "To 'mitigate' means to soften or reduce the impact of something bad."
+  },
+  {
+    "word": "venerate",
+    "definition": "regard with great respect; revere",
+    "synonym": "revere",
+    "distractor_definitions": [
+      "despise or treat with contempt",
+      "imitate with intent to mock",
+      "purchase at low market rates"
+    ],
+    "distractor_synonyms": [
+      "despise",
+      "mimic",
+      "undervalue"
+    ],
+    "simple_explanation": "To 'venerate' someone is to hold them in extremely high honor or respect."
+  },
+  {
+    "word": "taciturn",
+    "definition": "reserved or uncommunicative in speech",
+    "synonym": "silent",
+    "distractor_definitions": [
+      "extremely vocal and talkative",
+      "possessing immense wealth",
+      "prone to frequent accidents"
+    ],
+    "distractor_synonyms": [
+      "talkative",
+      "prosperous",
+      "clumsy"
+    ],
+    "simple_explanation": "A 'taciturn' person says very little and is naturally quiet or reserved."
+  },
+  {
+    "word": "anachronism",
+    "definition": "a thing belonging to a period other than its placement",
+    "synonym": "incongruity",
+    "distractor_definitions": [
+      "an exact biological duplicate",
+      "a sudden muscular contraction",
+      "a major scientific breakthrough"
+    ],
+    "distractor_synonyms": [
+      "clone",
+      "spasm",
+      "discovery"
+    ],
+    "simple_explanation": "An 'anachronism' is something that seems out of place in its historical time."
+  },
+  {
+    "word": "equivocal",
+    "definition": "open to more than one interpretation; ambiguous",
+    "synonym": "ambiguous",
+    "distractor_definitions": [
+      "absolutely certain and clear",
+      "pleasant to listen to in speech",
+      "extremely hot in temperature"
+    ],
+    "distractor_synonyms": [
+      "unequivocal",
+      "melodious",
+      "scorching"
+    ],
+    "simple_explanation": "An 'equivocal' statement is vague or can be interpreted in several ways."
+  },
+  {
+    "word": "garrulous",
+    "definition": "excessively talkative, especially on trivial matters",
+    "synonym": "loquacious",
+    "distractor_definitions": [
+      "hostile and ready to fight",
+      "unbelievably clean or neat",
+      "highly skilled in painting"
+    ],
+    "distractor_synonyms": [
+      "pugnacious",
+      "immaculate",
+      "artistic"
+    ],
+    "simple_explanation": "A 'garrulous' person talks a lot, usually about unimportant or small things."
+  },
+  {
+    "word": "gregarious",
+    "definition": "fond of company; highly sociable",
+    "synonym": "sociable",
+    "distractor_definitions": [
+      "preferring to live completely alone",
+      "easily angered or irritated",
+      "heavy and difficult to carry"
+    ],
+    "distractor_synonyms": [
+      "solitary",
+      "irascible",
+      "cumbersome"
+    ],
+    "simple_explanation": "A 'gregarious' person loves being around other people and socializing."
+  },
+  {
+    "word": "inimical",
+    "definition": "tending to obstruct or harm; hostile",
+    "synonym": "hostile",
+    "distractor_definitions": [
+      "extremely friendly and welcoming",
+      "completely transparent and clear",
+      "highly valuable or expensive"
+    ],
+    "distractor_synonyms": [
+      "friendly",
+      "translucent",
+      "priceless"
+    ],
+    "simple_explanation": "An 'inimical' factor or person is harmful, limiting, or unfriendly."
+  },
+  {
+    "word": "obdurate",
+    "definition": "stubbornly refusing to change one's opinion",
+    "synonym": "stubborn",
+    "distractor_definitions": [
+      "flexible and easily persuaded",
+      "forgetful of past promises",
+      "acting with extreme speed"
+    ],
+    "distractor_synonyms": [
+      "compliant",
+      "oblivious",
+      "rapid"
+    ],
+    "simple_explanation": "An 'obdurate' mindset is rigid, refusal to budge or change course."
+  },
+  {
+    "word": "parsimonious",
+    "definition": "unwilling to spend money or use resources",
+    "synonym": "frugal",
+    "distractor_definitions": [
+      "extremely generous and wasteful",
+      "highly educated and scholarly",
+      "related to natural medicine"
+    ],
+    "distractor_synonyms": [
+      "extravagant",
+      "academic",
+      "botanical"
+    ],
+    "simple_explanation": "A 'parsimonious' person is extremely stingy or cautious with spending money."
+  },
+  {
+    "word": "recalcitrant",
+    "definition": "having an obstinately uncooperative attitude toward authority",
+    "synonym": "rebellious",
+    "distractor_definitions": [
+      "highly obedient and compliant",
+      "suffering from severe fatigue",
+      "beautifully designed with gems"
+    ],
+    "distractor_synonyms": [
+      "submissive",
+      "exhausted",
+      "bejeweled"
+    ],
+    "simple_explanation": "A 'recalcitrant' person resists control or refuses to follow rules."
+  },
+  {
+    "word": "sycophant",
+    "definition": "person who acts obsequiously toward someone to gain advantage",
+    "synonym": "flatterer",
+    "distractor_definitions": [
+      "a bold rebel against authority",
+      "a skilled musical conductor",
+      "a private investigator or spy"
+    ],
+    "distractor_synonyms": [
+      "insurgent",
+      "maestro",
+      "detective"
+    ],
+    "simple_explanation": "A 'sycophant' is a suck-up who uses excessive praise to win favor from superiors."
+  },
+  {
+    "word": "vacillate",
+    "definition": "alternate or waver between different opinions or actions",
+    "synonym": "waver",
+    "distractor_definitions": [
+      "decide firmly and hold fast",
+      "shout loudly in a public area",
+      "imitate a mechanical device"
+    ],
+    "distractor_synonyms": [
+      "resolve",
+      "bellow",
+      "simulate"
+    ],
+    "simple_explanation": "To 'vacillate' is to struggle to make a decision, wavering back and forth."
+  },
+  {
+    "word": "engender",
+    "definition": "cause or give rise to a feeling, situation, or condition",
+    "synonym": "provoke",
+    "distractor_definitions": [
+      "destroy or finish completely",
+      "explain in extensive articles",
+      "borrow with written permission"
+    ],
+    "distractor_synonyms": [
+      "extinguish",
+      "elaborate",
+      "borrow"
+    ],
+    "simple_explanation": "To 'engender' a feeling or situation is to trigger or breed its development."
+  }
+]

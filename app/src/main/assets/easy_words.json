@@ -1,0 +1,322 @@
+[
+  {
+    "word": "create",
+    "definition": "bring something into existence",
+    "synonym": "produce",
+    "distractor_definitions": [
+      "destroy or ruin completely",
+      "borrow money from someone",
+      "delay an action until later"
+    ],
+    "distractor_synonyms": [
+      "demolish",
+      "borrow",
+      "postpone"
+    ],
+    "simple_explanation": "To 'create' is to make something new that did not exist before."
+  },
+  {
+    "word": "connect",
+    "definition": "join together so as to provide a link",
+    "synonym": "link",
+    "distractor_definitions": [
+      "separate into parts",
+      "explain a difficult concept",
+      "forget password details"
+    ],
+    "distractor_synonyms": [
+      "detach",
+      "clarify",
+      "overlook"
+    ],
+    "simple_explanation": "To 'connect' means to tie, bond, or link things together."
+  },
+  {
+    "word": "prevent",
+    "definition": "keep something from happening",
+    "synonym": "stop",
+    "distractor_definitions": [
+      "encourage someone to continue",
+      "observe secretly from afar",
+      "repeat several times"
+    ],
+    "distractor_synonyms": [
+      "promote",
+      "spy",
+      "reiterate"
+    ],
+    "simple_explanation": "To 'prevent' means to stop an event or action before it can occur."
+  },
+  {
+    "word": "improve",
+    "definition": "make or become better",
+    "synonym": "enhance",
+    "distractor_definitions": [
+      "decrease in quality or value",
+      "copy without permission",
+      "translate into another language"
+    ],
+    "distractor_synonyms": [
+      "worsen",
+      "plagiarize",
+      "interpret"
+    ],
+    "simple_explanation": "To 'improve' means to elevate something to a higher state or standard."
+  },
+  {
+    "word": "explore",
+    "definition": "travel through an unfamiliar area to learn about it",
+    "synonym": "investigate",
+    "distractor_definitions": [
+      "stay in one place permanently",
+      "ignore instructions deliberately",
+      "clean up code bugs"
+    ],
+    "distractor_synonyms": [
+      "remain",
+      "disregard",
+      "debug"
+    ],
+    "simple_explanation": "To 'explore' is to search, look around, and learn about new things."
+  },
+  {
+    "word": "achieve",
+    "definition": "successfully reach a desired goal",
+    "synonym": "attain",
+    "distractor_definitions": [
+      "give up on a challenge midway",
+      "lose highly valued items",
+      "criticize someone's efforts"
+    ],
+    "distractor_synonyms": [
+      "forfeit",
+      "misplace",
+      "reprove"
+    ],
+    "simple_explanation": "To 'achieve' is to complete or win something through hard work."
+  },
+  {
+    "word": "secure",
+    "definition": "protect against danger or risk",
+    "synonym": "protect",
+    "distractor_definitions": [
+      "expose to extreme hazards",
+      "leak private credentials",
+      "forget logical reasoning"
+    ],
+    "distractor_synonyms": [
+      "endanger",
+      "expose",
+      "abandon"
+    ],
+    "simple_explanation": "To 'secure' means to lock down or safely guard from any harm."
+  },
+  {
+    "word": "support",
+    "definition": "give assistance or encouragement to",
+    "synonym": "assist",
+    "distractor_definitions": [
+      "oppose or block progress",
+      "neglect duty and responsibility",
+      "confuse simple information"
+    ],
+    "distractor_synonyms": [
+      "hinder",
+      "desert",
+      "perplex"
+    ],
+    "simple_explanation": "To 'support' means to back someone up or help hold things up."
+  },
+  {
+    "word": "select",
+    "definition": "fully choose from a number of options",
+    "synonym": "choose",
+    "distractor_definitions": [
+      "discard without review",
+      "mix up randomly together",
+      "accept without conditions"
+    ],
+    "distractor_synonyms": [
+      "reject",
+      "scramble",
+      "tolerate"
+    ],
+    "simple_explanation": "To 'select' is to pick the best choice among several alternatives."
+  },
+  {
+    "word": "design",
+    "definition": "decide upon look and function of something",
+    "synonym": "plan",
+    "distractor_definitions": [
+      "disassemble after building",
+      "describe briefly in speech",
+      "purchase at high cost"
+    ],
+    "distractor_synonyms": [
+      "dismantle",
+      "mention",
+      "acquire"
+    ],
+    "simple_explanation": "To 'design' is to carefully sketch or outline a scheme and structure."
+  },
+  {
+    "word": "simple",
+    "definition": "easily understood or done",
+    "synonym": "easy",
+    "distractor_definitions": [
+      "demanding intense mental effort",
+      "beautifully styled with details",
+      "occurring after a delay"
+    ],
+    "distractor_synonyms": [
+      "complex",
+      "ornate",
+      "belated"
+    ],
+    "simple_explanation": "Something 'simple' is straightforward to grasp and lacks complexity."
+  },
+  {
+    "word": "active",
+    "definition": "engaging in physical or mental pursuit",
+    "synonym": "energetic",
+    "distractor_definitions": [
+      "resting and static in state",
+      "unwilling to learn new skills",
+      "failing to perform tasks"
+    ],
+    "distractor_synonyms": [
+      "dormant",
+      "apathetic",
+      "delinquent"
+    ],
+    "simple_explanation": "Being 'active' means you are busy doing things rather than resting."
+  },
+  {
+    "word": "build",
+    "definition": "construct by putting parts together",
+    "synonym": "construct",
+    "distractor_definitions": [
+      "pull down or knock over",
+      "inspect details microscopically",
+      "refuse to participate fully"
+    ],
+    "distractor_synonyms": [
+      "demolish",
+      "scrutinize",
+      "boycott"
+    ],
+    "simple_explanation": "To 'build' is to assemble raw pieces to construct a larger structure."
+  },
+  {
+    "word": "future",
+    "definition": "time or events yet to come",
+    "synonym": "tomorrow",
+    "distractor_definitions": [
+      "history and prior occurrences",
+      "temporary state of existence",
+      "imaginary dream state"
+    ],
+    "distractor_synonyms": [
+      "yesterday",
+      "interim",
+      "fantasy"
+    ],
+    "simple_explanation": "The 'future' is the period of time that lies ahead of us."
+  },
+  {
+    "word": "remember",
+    "definition": "bring to mind an awareness of past",
+    "synonym": "recall",
+    "distractor_definitions": [
+      "fail to keep in mind",
+      "predict upcoming weather",
+      "manufacture false ideas"
+    ],
+    "distractor_synonyms": [
+      "forget",
+      "forecast",
+      "fabricate"
+    ],
+    "simple_explanation": "To 'remember' is to pull a thought or file back into active memory."
+  },
+  {
+    "word": "prepare",
+    "definition": "make ready for use or consideration",
+    "synonym": "ready",
+    "distractor_definitions": [
+      "conclude and close down",
+      "delay without good reason",
+      "criticize prematurely"
+    ],
+    "distractor_synonyms": [
+      "finalize",
+      "procrastinate",
+      "censure"
+    ],
+    "simple_explanation": "To 'prepare' is to get everything set and ready before a task begins."
+  },
+  {
+    "word": "expect",
+    "definition": "regard something as likely to happen",
+    "synonym": "anticipate",
+    "distractor_definitions": [
+      "doubt the possibility completely",
+      "forget a critical appointment",
+      "investigate scientific facts"
+    ],
+    "distractor_synonyms": [
+      "distrust",
+      "overlook",
+      "analyze"
+    ],
+    "simple_explanation": "To 'expect' is to wait for or anticipate something you feel will arrive."
+  },
+  {
+    "word": "gather",
+    "definition": "bring together into one place",
+    "synonym": "collect",
+    "distractor_definitions": [
+      "scatter in multiple directions",
+      "hide away in secrecy",
+      "divide mathematical numbers"
+    ],
+    "distractor_synonyms": [
+      "disperse",
+      "conceal",
+      "divide"
+    ],
+    "simple_explanation": "To 'gather' is to bring scattered items or people into a single group."
+  },
+  {
+    "word": "protect",
+    "definition": "keep safe from damage or injury",
+    "synonym": "defend",
+    "distractor_definitions": [
+      "expose directly to harms",
+      "abandon when assistance is needed",
+      "accuse without evidence"
+    ],
+    "distractor_synonyms": [
+      "imperil",
+      "desert",
+      "indict"
+    ],
+    "simple_explanation": "To 'protect' is to shelter or defend something or someone from harm."
+  },
+  {
+    "word": "friend",
+    "definition": "person with bond of mutual affection",
+    "synonym": "companion",
+    "distractor_definitions": [
+      "person actively hostile or opposing",
+      "random person met briefly",
+      "official running for office"
+    ],
+    "distractor_synonyms": [
+      "adversary",
+      "stranger",
+      "candidate"
+    ],
+    "simple_explanation": "A 'friend' is someone you care about and enjoy spending time with."
+  }
+]
